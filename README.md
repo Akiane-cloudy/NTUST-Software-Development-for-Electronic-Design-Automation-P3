@@ -13,7 +13,7 @@ This project implements a Detailed Routing for Photonic Integrated Circuits (PIC
 ## Program Architecture
 
 ```
-/b11115004-p3
+/root
 │
 ├── main.cpp
 ├── Makefile
